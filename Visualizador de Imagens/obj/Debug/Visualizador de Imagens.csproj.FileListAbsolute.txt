@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C#\Visualizador de Imagen\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\Visualizador de Imagens.exe.config
+C:\Users\HP\Desktop\C#\Visualizador de Imagen\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\Visualizador de Imagens.exe
+C:\Users\HP\Desktop\C#\Visualizador de Imagen\Visualizador de Imagens\Visualizador de Imagens\bin\Debug\Visualizador de Imagens.pdb
+C:\Users\HP\Desktop\C#\Visualizador de Imagen\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Visualizador de Imagen\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador_de_Imagens.FrVisualizador.resources
+C:\Users\HP\Desktop\C#\Visualizador de Imagen\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador_de_Imagens.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\Visualizador de Imagen\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\Visualizador de Imagen\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Visualizador de Imagen\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.exe
+C:\Users\HP\Desktop\C#\Visualizador de Imagen\Visualizador de Imagens\Visualizador de Imagens\obj\Debug\Visualizador de Imagens.pdb
